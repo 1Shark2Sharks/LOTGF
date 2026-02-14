@@ -1,0 +1,1 @@
+There are two “keepers” inside and countless traps. It holds precious thing such as potion formulas, magical materials, and can even act as a prison.
