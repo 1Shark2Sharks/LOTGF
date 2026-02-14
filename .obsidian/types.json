@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Affiliated": "multitext",
+    "Affiliation": "multitext",
+    "Members": "multitext",
+    "Leader": "multitext",
+    "Location": "multitext"
+  }
+}

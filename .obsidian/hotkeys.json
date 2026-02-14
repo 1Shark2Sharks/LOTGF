@@ -1,0 +1,18 @@
+{
+  "markdown:add-metadata-property": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ","
+    }
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
+}

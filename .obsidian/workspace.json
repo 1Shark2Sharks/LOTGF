@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "83914fcf4006b150",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb177bad83c08e10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e512cf497210b301",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Views/Characters View.base",
+                "viewName": "Character"
+              },
+              "icon": "lucide-table",
+              "title": "Characters View"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f0e4a0429948abb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f16c9cd1f4b12606",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72808a892cd9ea33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4e3ba2d80a67fff0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f8fd4d8a62d9b29c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e50ac1b8fc93801",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bed535be1dafdab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fc6c8be2ee91634",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "d5766119b8992d5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Volume 2.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Volume 2"
+            }
+          },
+          {
+            "id": "e405a39cc0bf54d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3a3c6074982eb467",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7ba20d831f27c4cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Volume 2.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Volume 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e512cf497210b301",
+  "lastOpenFiles": [
+    "Locations/Khoy University.md",
+    "Views/Characters View.base",
+    "Path of the Divine/Pathways & Sequences/Darkness Pathway.md",
+    "Path of the Divine/Pathways & Sequences/Sequence 9 - Sleepless.md",
+    "Path of the Divine/Pathways & Sequences/Seer Pathway.md",
+    "Path of the Divine/Ritualistic Magic.md",
+    "Path of the Divine/Divination.md",
+    "Path of the Divine/Pathways & Sequences/Pathway.md",
+    "Pathways.md",
+    "Path of the Divine/Pathways & Sequences/Sequence 8 - Midnight Poet.md",
+    "Characters/Tarot Club/Klein Moretti.md",
+    "Characters/Zhou Mingrui.md",
+    "Misc/Transmigration.md",
+    "Path of the Divine/Pathways & Sequences/Sequence 7 - Nightmare.md",
+    "Characters/Beyonders/Archbishop Chanis.md",
+    "Gods",
+    "Characters/Untitled.md",
+    "Views",
+    "Untitled.canvas",
+    "README.md",
+    "Templates/Sequence Template.md",
+    "Templates/Organization & Families Template.md",
+    "Templates/Location Template.md",
+    "Templates/Item Template.md",
+    "Templates/Factions of Beyonders Template.md",
+    "Templates/Event Template.md",
+    "Templates/Church or Religion Group Template.md",
+    "Templates/Character Template.md",
+    "Templates/Beyonder Template.md",
+    "Templates",
+    "Summaries/Volume 1",
+    "Summaries",
+    "Path of the Divine/Pathways & Sequences",
+    "Path of the Divine",
+    "Misc/Languages",
+    "Misc",
+    "Pasted image 20260214213847.png",
+    "Pasted image 20260214213824.png"
+  ]
+}
