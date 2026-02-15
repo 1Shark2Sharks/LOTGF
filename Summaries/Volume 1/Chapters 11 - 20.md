@@ -1,4 +1,4 @@
-PREV >> [[Chapters 1 - 10]]
+ PREV >> [[Chapters 1 - 10]]
 NEXT >> [[Chapters 21 - 30]]
 #### Chapter 11: Real Culinary Skills
 

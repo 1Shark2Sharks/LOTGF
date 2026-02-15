@@ -1,13 +1,14 @@
 ---
 aliases:
   - Dunn
-  - The Captain
-Status: deceased
+Status: alive
 Affiliation:
   - "[[Nighthawks]]"
   - "[[Church of the Evernight Goddess]]"
   - "[[Tingen City]]"
 "Former Affiliation:":
+Pathway: "[[Darkness Pathway]]"
+Sequence: "[[Sequence 7 - Nightmare]]"
 ---
 Captain of the [[Nighthawks]] in [[Tingen City]]
 ### Gallery:

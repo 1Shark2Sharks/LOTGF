@@ -1,4 +1,4 @@
 ---
-Pathway: unknown
+Pathway: "[[Darkness Pathway]]"
 tags:
 ---

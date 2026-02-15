@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fb177bad83c08e10",
+        "id": "ac0c0b581f110587",
         "type": "tabs",
         "children": [
           {
-            "id": "e512cf497210b301",
+            "id": "3becdbba3e301434",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Views/Characters View.base",
-                "viewName": "Character"
-              },
-              "icon": "lucide-table",
-              "title": "Characters View"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -40,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,28 +180,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e512cf497210b301",
+  "active": "72808a892cd9ea33",
   "lastOpenFiles": [
-    "Locations/Khoy University.md",
-    "Views/Characters View.base",
-    "Path of the Divine/Pathways & Sequences/Darkness Pathway.md",
-    "Path of the Divine/Pathways & Sequences/Sequence 9 - Sleepless.md",
+    "Summaries/Volume 1/Chapters 21 - 30.md",
+    "Path of the Divine/Pathways & Sequences/Sequence 9 - Marauder.md",
+    "Path of the Divine/Pathways & Sequences/Sequence 9 - Apprentice.md",
+    "Path of the Divine/Pathways & Sequences/Sequence 7 - Spirit Medium.md",
+    "Path of the Divine/Pathways & Sequences/Unnamed Pathway.md",
+    "Characters/Beyonders/Daly Simone.md",
+    "Path of the Divine/Pathways & Sequences/Sequence 9 - Corpse Collector.md",
+    "Path of the Divine/Pathways & Sequences/Sequence 9 - Mystery Pryer.md",
+    "Summaries/Volume 1/Chapters 31 - 40.md",
     "Path of the Divine/Pathways & Sequences/Seer Pathway.md",
-    "Path of the Divine/Ritualistic Magic.md",
-    "Path of the Divine/Divination.md",
-    "Path of the Divine/Pathways & Sequences/Pathway.md",
-    "Pathways.md",
-    "Path of the Divine/Pathways & Sequences/Sequence 8 - Midnight Poet.md",
+    "Path of the Divine/Pathways & Sequences/Sequence 9 - Sleepless.md",
+    "Path of the Divine/Pathways & Sequences/Sequence 9 - Seer.md",
     "Characters/Tarot Club/Klein Moretti.md",
-    "Characters/Zhou Mingrui.md",
-    "Misc/Transmigration.md",
-    "Path of the Divine/Pathways & Sequences/Sequence 7 - Nightmare.md",
-    "Characters/Beyonders/Archbishop Chanis.md",
-    "Gods",
-    "Characters/Untitled.md",
-    "Views",
-    "Untitled.canvas",
-    "README.md",
+    "Path of the Divine/Pathways & Sequences/Darkness Pathway.md",
     "Templates/Sequence Template.md",
     "Templates/Organization & Families Template.md",
     "Templates/Location Template.md",
@@ -214,6 +205,13 @@
     "Templates/Church or Religion Group Template.md",
     "Templates/Character Template.md",
     "Templates/Beyonder Template.md",
+    "Groups/Moses Ascetic Order.md",
+    "Misc/Transmigration.md",
+    "Path of the Divine/Pathways & Sequences/Sequences.md",
+    "Views/Characters View.base",
+    "Gods",
+    "Views",
+    "Untitled.canvas",
     "Templates",
     "Summaries/Volume 1",
     "Summaries",

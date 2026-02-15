@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Character
+    filters:
+      and:
+        - file.folder.startsWith("Characters")
+    order:
+      - file.basename
+      - Status
+      - Pathway
+      - Sequence
+      - Affiliation
+      - "Former Affiliation:"
+    sort:
+      - property: file.basename
+        direction: ASC
+      - property: Status
+        direction: ASC
+    columnSize: {}

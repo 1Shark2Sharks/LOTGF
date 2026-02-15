@@ -1,5 +1,3 @@
 ---
 Affiliated:
-tags:
-  - linker-exclude
 ---

@@ -1,4 +1,6 @@
 ---
 Location Type: Country
+aliases:
+  - Loen
 ---
-Located in [[Northern Continent]]
+Located in East [[Northern Continent]]

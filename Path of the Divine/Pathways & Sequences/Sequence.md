@@ -1,1 +1,0 @@
-Each of the seven churches control one complete Sequence.

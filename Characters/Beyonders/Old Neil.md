@@ -1,7 +1,7 @@
 ---
 aliases:
   - Neil
-Status: deceased
+Status: alive
 Affiliation:
   - "[[Nighthawks]]"
 "Former Affiliation:":

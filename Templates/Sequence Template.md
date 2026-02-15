@@ -1,5 +1,4 @@
 ---
 Pathway:
-tags:
-  - linker-exclude
+Affiliation:
 ---

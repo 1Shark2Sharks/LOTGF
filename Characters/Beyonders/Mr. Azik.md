@@ -1,12 +1,13 @@
 ---
 aliases:
-  - Daly
+  - Mr. Azik
 Status: alive
 Affiliation:
-  - "[[Nighthawks]]"
+  - "[[Khoy University]]"
   - "[[Tingen City]]"
 "Former Affiliation:":
 ---
+history professor at [[Khoy University]]
 
 
 

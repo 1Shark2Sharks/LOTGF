@@ -1,0 +1,4 @@
+---
+Pathway: "[[Unnamed Pathway]]"
+Affiliation:
+---

@@ -3,5 +3,7 @@ Item Type: Diary
 Affiliation:
   - "[[Roselle Gustav]]"
   - "[[Klein Moretti]]"
-tags:
+aliases:
+  - Diary of Emperor Roselle Gustav
+  - Diary of Emperor
 ---
