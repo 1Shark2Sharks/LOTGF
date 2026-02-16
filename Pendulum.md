@@ -1,0 +1,1 @@
+An item to perform a [[Divination]]

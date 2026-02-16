@@ -1,6 +1,7 @@
 ---
 aliases:
   - Daly
+  - Madam Daly
 Status: alive
 Affiliation:
   - "[[Nighthawks]]"

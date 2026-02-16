@@ -7,6 +7,7 @@ Affiliation:
   - "[[Tingen City]]"
 "Former Affiliation:":
 ---
+Oldest Brother of the [[Moretti Family]]. 
 
 
 

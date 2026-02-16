@@ -1,10 +1,10 @@
 {
-  "advancedSettings": false,
+  "advancedSettings": true,
   "linkerActivated": true,
   "matchAnyPartsOfWords": true,
   "matchEndOfWords": true,
   "matchBeginningOfWords": true,
-  "suppressSuffixForSubWords": false,
+  "suppressSuffixForSubWords": true,
   "includeAllFiles": true,
   "linkerDirectories": [
     "Glossary"
@@ -14,7 +14,7 @@
   "virtualLinkSuffix": "",
   "virtualLinkAliasSuffix": "",
   "useMarkdownLinks": false,
-  "linkFormat": "shortest",
+  "linkFormat": "relative",
   "defaultLinkFormat": "shortest",
   "useDefaultLinkStyleForConversion": false,
   "applyDefaultLinkStyling": false,

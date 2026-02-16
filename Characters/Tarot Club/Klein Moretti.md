@@ -1,10 +1,10 @@
 ---
 aliases:
   - Klein
+Persona: "[[The Fool]]"
 Status: alive
 Affiliation:
   - "[[Moretti Family]]"
-  - "[[Tarot Club]]"
   - "[[Tingen City]]"
   - "[[Transmigration|Transmigrator]]"
   - "[[Nighthawks]]"

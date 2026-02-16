@@ -1,5 +1,7 @@
 ---
 Pathway: "[[Darkness Pathway]]"
+aliases:
+  - Sleepless
 ---
 **Traits**
 - **High Spirituality**: A **Sleepless** and their corresponding **Pathways** have a **High** **Spirituality** compared to other. Thus they possess high spiritual perception and sensitivity.

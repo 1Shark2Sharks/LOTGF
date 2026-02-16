@@ -15,7 +15,52 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
+            },
+            "group": "249a650111818b36"
+          }
+        ]
+      },
+      {
+        "id": "8b344890430c990b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ced3dfe32ed48c98",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Summaries/Volume 1/Chapters 31 - 40.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Chapters 31 - 40"
+            },
+            "group": "249a650111818b36"
           }
         ]
       }
@@ -180,34 +225,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "72808a892cd9ea33",
+  "active": "3becdbba3e301434",
   "lastOpenFiles": [
-    "Summaries/Volume 1/Chapters 21 - 30.md",
-    "Path of the Divine/Pathways & Sequences/Sequence 9 - Marauder.md",
-    "Path of the Divine/Pathways & Sequences/Sequence 9 - Apprentice.md",
-    "Path of the Divine/Pathways & Sequences/Sequence 7 - Spirit Medium.md",
-    "Path of the Divine/Pathways & Sequences/Unnamed Pathway.md",
-    "Characters/Beyonders/Daly Simone.md",
-    "Path of the Divine/Pathways & Sequences/Sequence 9 - Corpse Collector.md",
-    "Path of the Divine/Pathways & Sequences/Sequence 9 - Mystery Pryer.md",
     "Summaries/Volume 1/Chapters 31 - 40.md",
-    "Path of the Divine/Pathways & Sequences/Seer Pathway.md",
-    "Path of the Divine/Pathways & Sequences/Sequence 9 - Sleepless.md",
-    "Path of the Divine/Pathways & Sequences/Sequence 9 - Seer.md",
+    "Summaries/Volume 1/Chapters 41 - 50.md",
+    "Path of the Divine/Divination.md",
+    "Pendulum.md",
+    "Bredt.md",
+    "Characters/Beyonders/Daly Simone.md",
+    "Hanass Vincent.md",
+    "Divination Club.md",
+    "Groups/Families/Antigonus Family.md",
+    "Items/The Diary of the Antigonous Family.md",
+    "Spirit Vision.md",
+    "Summaries/Volume 1/Chapters 1 - 10.md",
+    "Spirit World.md",
+    "Characters/Tarot Club/Audrey Hall.md",
+    "Path of the Divine/Pathways & Sequences/Sequence 9 - Spectator.md",
+    "Ludwell.md",
+    "Path of the Divine/Pathways & Sequences/Unnamed Pathway.md",
+    "Groups/Tarot Club.md",
     "Characters/Tarot Club/Klein Moretti.md",
-    "Path of the Divine/Pathways & Sequences/Darkness Pathway.md",
-    "Templates/Sequence Template.md",
-    "Templates/Organization & Families Template.md",
-    "Templates/Location Template.md",
-    "Templates/Item Template.md",
-    "Templates/Factions of Beyonders Template.md",
-    "Templates/Event Template.md",
-    "Templates/Church or Religion Group Template.md",
-    "Templates/Character Template.md",
-    "Templates/Beyonder Template.md",
-    "Groups/Moses Ascetic Order.md",
-    "Misc/Transmigration.md",
-    "Path of the Divine/Pathways & Sequences/Sequences.md",
+    "Gods/The Fool.md",
+    "Groups/Families/Moretti Family.md",
+    "Items/Roselle’s Diary.md",
+    "God of Craftsmanship.md",
+    "Groups/Churches/Church of the God of Craftsmanship.md",
+    "Characters/Beyonders/Roselle Gustav.md",
+    "Zaratul.md",
     "Views/Characters View.base",
     "Gods",
     "Views",

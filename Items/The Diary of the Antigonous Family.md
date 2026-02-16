@@ -5,4 +5,5 @@ Affiliation:
 tags:
 aliases:
   - Antigonus Notebook
+  - Antigonus family's notebook
 ---

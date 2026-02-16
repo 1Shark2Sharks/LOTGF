@@ -6,4 +6,5 @@ Leader:
 Members:
 Affiliated:
   - "[[Solomon Empire]]"
+  - "[[The Diary of the Antigonous Family|Antigonus Notebook]]"
 ---
