@@ -5,18 +5,61 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Path of the Divine\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8735709
+      }
+    },
+    {
+      "query": "path:Gods  ",
+      "color": {
+        "a": 1,
+        "rgb": 8755548
+      }
+    },
+    {
+      "query": "path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Summaries  ",
+      "color": {
+        "a": 1,
+        "rgb": 7626077
+      }
+    },
+    {
+      "query": "path:Groups  ",
+      "color": {
+        "a": 1,
+        "rgb": 12740352
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7247371040987692,
-  "close": true
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1.35685652670303,
+  "lineSizeMultiplier": 1.08087022707091,
+  "collapse-forces": false,
+  "centerStrength": 0.503298236711912,
+  "repelStrength": 11.7975390079919,
+  "linkStrength": 0.667829506533046,
+  "linkDistance": 273,
+  "scale": 0.41599803055548357,
+  "close": false
 }

@@ -1,10 +1,10 @@
 ---
 aliases:
-Status: unknown
+Status: alive
 Affiliation:
+  - "[[Hall Family]]"
+  - "[[Backlund]]"
 "Former Affiliation:":
-Pathway: unknown
-Sequence: unknown
 ---
 
 

@@ -11,3 +11,27 @@ aliases:
 **High-Sequence** (also known as **Demigods**): Sequences 4 to 1.
 
 Each of the seven churches control one complete Sequence.
+
+#### All known Pathways
+[[Seer Sequence Pathway]]
+
+
+#### All known Sequences
+
+**Sequence 9:**
+[[Sequence 9 - Seer]]
+[[Sequence 9 - Savant]]
+[[Sequence 9 - Sailor]]
+[[Sequence 9 - Marauder]]
+[[Sequence 9 - Spectator]]
+[[Sequence 9 - Sleepless]]
+[[Sequence 9 - Apprentice]]
+[[Sequence 9 - Mystery Pryer]]
+[[Sequence 9 - Corpse Collector]]
+
+**Sequence 8:**
+[[Sequence 8 - Midnight Poet]]
+
+Sequence 7:
+[[Sequence 7 - Nightmare]]
+[[Sequence 7 - Spirit Medium]]

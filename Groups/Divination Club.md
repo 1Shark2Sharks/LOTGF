@@ -6,4 +6,5 @@ Location:
 Leader:
   - "[[Hanass Vincent]]"
 Members:
+  - "[[Klein Moretti]]"
 ---

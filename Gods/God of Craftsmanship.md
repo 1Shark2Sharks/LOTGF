@@ -1,2 +1,0 @@
-apart of the [[Seven Orthodox Gods]] and mentioned in [[Roselle’s Diary]].
-It is probably an alternative or outdated name of one the Seven Gods. They's Curch yield the least number of [[Sealed Artifacts]] according to Roselle.

@@ -7,7 +7,7 @@ Affiliation:
   - "[[Church of the Evernight Goddess]]"
   - "[[Tingen City]]"
 "Former Affiliation:":
-Pathway: "[[Darkness Pathway]]"
+Pathway: "[[Sleeples Sequence Pathway]]"
 Sequence: "[[Sequence 7 - Nightmare]]"
 ---
 Captain of the [[Nighthawks]] in [[Tingen City]]

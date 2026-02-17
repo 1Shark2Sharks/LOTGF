@@ -1,0 +1,5 @@
+---
+Status: alive
+Affiliation:
+  - "[[Backlund]]"
+---

@@ -8,8 +8,9 @@ Affiliation:
   - "[[Tingen City]]"
   - "[[Transmigration|Transmigrator]]"
   - "[[Nighthawks]]"
+  - "[[Divination Club]]"
 "Former Affiliation:": "[[Khoy University]]"
-Pathway: "[[Seer Pathway]]"
+Pathway: "[[Seer Sequence Pathway]]"
 Sequence: "[[Sequence 9 - Seer]]"
 ---
 

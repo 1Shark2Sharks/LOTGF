@@ -45,7 +45,7 @@ aliases:
   
 “**October 9th.** They actually called me the Son of the Steam. I like that very much.”  
   
-“**May 21st.** The [[Church of the God of Craftsmanship]] gave me two choices, two beginning [[Sequences|Sequence]] [[Pathway|pathways]]. One of them is the [[Sequence 9 - Savant]]. It is a complete Sequence pathway they possess. The other is [[Sequence 9 - Mystery Pryer|Mystery Pryer]], which they obtained from the [[Moses Ascetic Order]], but it lacks the higher Sequences.”  
+“**May 21st.** The [[Church of the God of Steam and Machinery|Church of the God of Craftsmanship]] gave me two choices, two beginning [[Sequences|Sequence]] [[Pathway|pathways]]. One of them is the [[Sequence 9 - Savant]]. It is a complete Sequence pathway they possess. The other is [[Sequence 9 - Mystery Pryer|Mystery Pryer]], which they obtained from the [[Moses Ascetic Order]], but it lacks the higher Sequences.”  
   
 “**May 22nd.** My choice was easy: Savant! The Savant has a complete Sequence pathway! Although wielding more information on mysticism can aid my return home, the problem is that if I am not strong enough, there is a need to acquire external help for [[Transmigration]]. And I do not know if this external entity would be good or bad, benevolent or malicious. I cannot control it, and thus it could be very dangerous. In that case, why not strengthen myself and return by relying on my own powers? Thus, the complete Sequence was the most important factor in my considerations!”  
   
@@ -64,7 +64,7 @@ aliases:
   
 “And who created the Blasphemy Slate? How could that person hold all of the Sequence pathways? Just what other information was on the stone? I really want to see it…”  
   
-“**July 12th.** I’ve realized another fact today. The [[Sealed Artifacts]] are an important component of a church’s overall strength, even though some of the sealed items are very, very dangerous. Among the [[Seven Orthodox Gods|seven churches]], the [[God of Craftsmanship]] wields the least number of Sealed Artifacts which are also relatively less dangerous… Did I join an organization without a future? No, I should think of it this way; only a blank piece of paper can produce a good painting. A weak organization is the best place for me to display my abilities!  
+“**July 12th.** I’ve realized another fact today. The [[Sealed Artifacts]] are an important component of a church’s overall strength, even though some of the sealed items are very, very dangerous. Among the [[Seven Orthodox Gods|seven churches]], the [[God of Steam and Machinery|God of Craftsmanship]] wields the least number of Sealed Artifacts which are also relatively less dangerous… Did I join an organization without a future? No, I should think of it this way; only a blank piece of paper can produce a good painting. A weak organization is the best place for me to display my abilities!  
   
 “**July 14th.** I saw that mysterious Mr. Zaratul again. I never expected him to be the leader of an ancient organization, the [[Secret Order]]!”  
   

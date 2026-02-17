@@ -1,12 +1,12 @@
 ---
-Pathway: "[[Darkness Pathway]]"
+Pathway: "[[Sleeples Sequence Pathway]]"
 aliases:
   - Sleepless
 ---
 **Traits**
 - **High Spirituality**: A **Sleepless** and their corresponding **Pathways** have a **High** **Spirituality** compared to other. Thus they possess high spiritual perception and sensitivity.
     - **Spirit Vision**: They can use **Spirit Vision**; however, they are unable to precisely differentiate the status of different body parts. It can only be used to see spiritual things, but is not as effective as relying on their spiritual perception.
-    - **Divination Arts & Ritualistic Magic**: Their potent **Spirituality** allows them to do limited [[Divination]] and [[Ritualistic Magic]]. However, their usage of **Ritualistic Magic** is far inferior to the likes of [[Seer Pathway|Seers]].
+    - **Divination Arts & Ritualistic Magic**: Their potent **Spirituality** allows them to do limited [[Divination]] and [[Ritualistic Magic]]. However, their usage of **Ritualistic Magic** is far inferior to the likes of [[Seer Sequence Pathway|Seers]].
 
 
 **New Abilities**

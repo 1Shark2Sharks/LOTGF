@@ -1,5 +1,0 @@
----
-Pathway: unknown
-aliases:
-  - Spectator
----

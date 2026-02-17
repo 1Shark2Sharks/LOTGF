@@ -15,52 +15,7 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            },
-            "group": "249a650111818b36"
-          }
-        ]
-      },
-      {
-        "id": "8b344890430c990b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ced3dfe32ed48c98",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Summaries/Volume 1/Chapters 31 - 40.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Chapters 31 - 40"
-            },
-            "group": "249a650111818b36"
+            }
           }
         ]
       }
@@ -94,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Shaud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,35 +181,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "72808a892cd9ea33",
+  "active": "3becdbba3e301434",
   "lastOpenFiles": [
-    "Summaries/Volume 1/Chapters 31 - 40.md",
+    "Characters/Beyonders/Old Neil.md",
     "Summaries/Volume 1/Chapters 41 - 50.md",
-    "Path of the Divine/Divination.md",
-    "Path of the Divine/Pendulum.md",
-    "Characters/Bredt.md",
-    "Characters/Beyonders/Daly Simone.md",
+    "Ray Bieber.md",
     "Characters/Beyonders/Hanass Vincent.md",
     "Groups/Divination Club.md",
-    "Groups/Families/Antigonus Family.md",
+    "Characters/Tarot Club/Klein Moretti.md",
     "Items/The Diary of the Antigonous Family.md",
     "Path of the Divine/Spirit Vision.md",
-    "Summaries/Volume 1/Chapters 1 - 10.md",
-    "Path of the Divine/Spirit World.md",
+    "Frye.md",
+    "Path of the Divine/Divination.md",
+    "Summaries/Volume 1/Chapters 31 - 40.md",
+    "Klee.md",
+    "Blue Avenger.md",
+    "Pritz Harbor.md",
+    "Path of the Divine/Sequences/Sequence 9 - Spectator.md",
     "Characters/Tarot Club/Audrey Hall.md",
-    "Path of the Divine/Pathways & Sequences/Sequence 9 - Spectator.md",
-    "Characters/Ludwell.md",
-    "Path of the Divine/Pathways & Sequences/Unnamed Pathway.md",
-    "Groups/Tarot Club.md",
-    "Characters/Tarot Club/Klein Moretti.md",
-    "Gods/The Fool.md",
-    "Groups/Families/Moretti Family.md",
+    "Blackthorn Security Company.md",
+    "Characters/Orianna.md",
+    "Summaries/Volume 1/Chapters 21 - 30.md",
+    "Summaries/Volume 1/Chapters 95 - 107.md",
+    "Locations/Feysac.md",
+    "Groups/Factions of Beyonders/Nighthawks.md",
     "Items/Roselle’s Diary.md",
-    "Gods/God of Craftsmanship.md",
-    "Groups/Churches/Church of the God of Craftsmanship.md",
-    "Characters/Beyonders/Roselle Gustav.md",
-    "Characters/Zaratul.md",
     "Views/Characters View.base",
+    "Characters/Earl Hall.md",
+    "Groups/Families/Hall Family.md",
+    "Characters/Susie.md",
+    "Path of the Divine/Sequences",
+    "Path of the Divine/Pathways",
     "Gods",
     "Views",
     "Untitled.canvas",
@@ -262,8 +220,6 @@
     "Summaries",
     "Path of the Divine/Pathways & Sequences",
     "Path of the Divine",
-    "Misc/Languages",
-    "Misc",
     "Pasted image 20260214213847.png",
     "Pasted image 20260214213824.png"
   ]

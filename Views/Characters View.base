@@ -16,4 +16,5 @@ views:
         direction: ASC
       - property: Status
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.Pathway: 287

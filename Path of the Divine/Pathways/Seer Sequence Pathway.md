@@ -2,8 +2,9 @@
 Beyonder:
   - "[[Klein Moretti]]"
 Affiliated:
-  - "[[Nighthawks]]"
+  - "[[Church of the Evernight Goddess]]"
 aliases:
   - Seers
   - Seers Pathway
 ---
+[[Sequence 9 - Seer]]

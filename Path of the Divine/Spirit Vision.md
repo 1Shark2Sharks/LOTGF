@@ -1,0 +1,5 @@
+Spirit Vision (灵视, Líng shì) is an ability that most [[Beyonder|Beyonders]] can learn and allows the Beyonder to glimpse into non-physical parts of a human.
+
+When a Beyonder learns Spirit Vision, they can observe the auras exuded from Ether Body or Ether Body itself, which lets them discover the presence of any being that has a Spirit Body; from their intensity, brightness, and color, they can deduce the being's health.
+
+For Beyonders from [[Seer Sequence Pathway]] and [[Mystery Pryer Sequence Pathway]], they can also see the aura exuded from Astral Projection, which lets them deduce a being's emotional state; the higher in [[Sequences|Sequence]] they get, the better their Spirit Vision becomes and they can peer further into a soul as far as Astral Projection, which may let them achieve a transcendent form of [[Divination]].

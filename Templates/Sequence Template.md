@@ -1,4 +1,3 @@
 ---
 Pathway:
-Affiliation:
 ---

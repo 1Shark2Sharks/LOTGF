@@ -1,0 +1,3 @@
+---
+Pathway: "[[Sailor Sequence Pathway]]"
+---

@@ -1,3 +1,8 @@
+---
+aliases:
+  - divination
+---
+
 Divination is the act of seeking knowledge about the future or the unknown through supernatural means.
 
 The core concept of divination art is that every individual has a spiritual aspect that allows them to connect with the spiritual world and attain information about themselves at a higher level. However, the divination isn’t all-powerful. The signs obtained through divination are often symbolic and can be misinterpreted or overlooked, leading to incorrect or incomplete information.

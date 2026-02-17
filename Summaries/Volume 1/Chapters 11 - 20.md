@@ -38,7 +38,7 @@ Klein is told the basic work duties of a civilian staff, but he is actually assi
 
 #### Chapter 20: The Forgetful Dunn
 
-Klein is given 12 pounds as advance payment, and told to meet the other members of the Nighthawks, [[Old Neil]] and [[Mrs. Orianna]]. He is also told to train himself to shoot using Welch’s revolver. After getting the money from Mrs. Orianna, he goes to meet Old Neil, an old man with red pupils. He is also a sort of historian, like Klein. He has been investigating Roselle Gustav’s lost diary, which was written in “mysterious symbols,” which turned out to be Simplified Chinese.
+Klein is given 12 pounds as advance payment, and told to meet the other members of the Nighthawks, [[Old Neil]] and [[Orianna]]. He is also told to train himself to shoot using Welch’s revolver. After getting the money from Mrs. Orianna, he goes to meet Old Neil, an old man with red pupils. He is also a sort of historian, like Klein. He has been investigating Roselle Gustav’s lost diary, which was written in “mysterious symbols,” which turned out to be Simplified Chinese.
 
 ---
 #summary

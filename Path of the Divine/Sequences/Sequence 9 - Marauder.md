@@ -1,5 +1,5 @@
 ---
-Pathway: "[[Unnamed Pathway]]"
+Pathway: "[[Marauder Sequence Pathway]]"
 Affiliation:
 aliases:
   - Marauder

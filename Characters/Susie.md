@@ -2,8 +2,8 @@
 aliases:
 Status: alive
 Affiliation:
-  - "[[Nighthawks]]"
-  - "[[Tingen City]]"
+  - "[[Hall Family]]"
+  - "[[Audrey Hall]]"
 "Former Affiliation:":
 ---
 

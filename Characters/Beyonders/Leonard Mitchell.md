@@ -6,7 +6,7 @@ Affiliation:
   - "[[Nighthawks]]"
   - "[[Tingen City]]"
 "Former Affiliation:":
-Pathway: "[[Darkness Pathway]]"
+Pathway: "[[Sleeples Sequence Pathway]]"
 Sequence: "[[Sequence 8 - Midnight Poet]]"
 ---
 

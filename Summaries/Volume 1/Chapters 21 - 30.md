@@ -6,7 +6,7 @@ NEXT >> [[Chapters 31 - 40]]
 
   
 
-[[Klein Moretti|Klein]], now in his new identity as a [[Nighthawks|Nighthawk]], receives further instructions from Captain Dunn Smith regarding his role and responsibilities. Dunn reminds Klein to visit the accountant, [[Mrs. Orianna]], for an advance payment of four weeks' salary—twelve pounds in total. He also advises Klein to upgrade his wardrobe due to the need for a more gentlemanly appearance. Dunn emphasizes that Klein should purchase a cane and a new suit, revealing the high costs associated with such items.
+[[Klein Moretti|Klein]], now in his new identity as a [[Nighthawks|Nighthawk]], receives further instructions from Captain Dunn Smith regarding his role and responsibilities. Dunn reminds Klein to visit the accountant, [[Orianna]], for an advance payment of four weeks' salary—twelve pounds in total. He also advises Klein to upgrade his wardrobe due to the need for a more gentlemanly appearance. Dunn emphasizes that Klein should purchase a cane and a new suit, revealing the high costs associated with such items.
 
   
 
@@ -272,7 +272,7 @@ Mystery Pryer grants a comprehensive but rudimentary understanding of mystical k
 
   
 
-Corpse Collector is popular among death-worshipping cultists in the [[Southern Continent]]; consuming the potion grants resistance to cold and decay, allowing direct observation of evil spirits and undead creatures while providing attribute enhancements. The Nighthawks possess Sequence 8 (Corpse Collector) and [[Sequence 7 - Spirit Medium]], with Klein noting that Daly chose the latter in the past.
+Corpse Collector is popular among death-worshipping cultists in the [[Southern Continent]]; consuming the potion grants resistance to cold and decay, allowing direct observation of evil spirits and undead creatures while providing attribute enhancements. The Nighthawks possess Sequence 8 and [[Sequence 7 - Spirit Medium]] of the [[Corpse Collector Sequence Pathway]], with Klein noting that Daly chose the latter in the past.
 
   
 

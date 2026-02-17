@@ -36,7 +36,7 @@ Old Neil confirms Klein's transformation into a Beyonder, individuals with spiri
 
   
 
-Old Neil further elaborates on the concept of Spirit Vision, a common ability among [[Seer Pathway|Seers]]. This involves seeing auras - external phenomena of one's Ether Body, representing vital energies and physical form. The colors of these auras signify different states of health and emotional conditions: red for limbs in motion or passion; purple for the head or prevailing emotions like coldness and estrangement; orange for waste excretion or warmth; yellow for happiness or extroversion; green for calm or peace; blue for thoughtful stillness; white for overall health. Thicker, darker colors indicate illness or exhaustion.
+Old Neil further elaborates on the concept of Spirit Vision, a common ability among [[Seer Sequence Pathway|Seers]]. This involves seeing auras - external phenomena of one's Ether Body, representing vital energies and physical form. The colors of these auras signify different states of health and emotional conditions: red for limbs in motion or passion; purple for the head or prevailing emotions like coldness and estrangement; orange for waste excretion or warmth; yellow for happiness or extroversion; green for calm or peace; blue for thoughtful stillness; white for overall health. Thicker, darker colors indicate illness or exhaustion.
 
   
 
