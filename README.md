@@ -28,7 +28,7 @@ Forth releas will bethe second full relase `V2_CH_482_2026_MM_DD`
 ...and so on...
 
 
-e.g. if you currently reading Volume 1 Chapter 120 of LOTM you should pull the `V1_ CH_110` pre-release.
+e.g. if you currently reading Volume 1 Chapter 120 of LOTM you should pull the `V1_CH_110` pre-release.
 
 ---
 
