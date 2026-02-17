@@ -23,7 +23,7 @@ Second release will be the first full release `V1_CH_219_2026_MM_DD` and will co
 
 Third release will be again a pre-release `V2_CH_350`
 
-Forth releas will bethe second full relase `V2_CH_482_2026_MM_DD`
+Fourth release will bethe second full relase `V2_CH_482_2026_MM_DD`
 
 ...and so on...
 
