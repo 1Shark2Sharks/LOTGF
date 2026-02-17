@@ -11,7 +11,7 @@ This vault serves two personal purposes:
 1. **Avoid spoilers**: I was consistently encountering spoiled plot points when checking fandom wikis, so I built this as an alternative reference
 2. **Structured note-taking**: Using AI-generated chapter summaries as a foundation, I created and linked custom notes to capture the details that matter to me
 
-This is a genuine hobby project—not a commercial product.
+This is a genuine hobby project.
 
 First release `CH_100_2026_MM_DD` will contain information from chapter 1 to ~100 with all associated materials including summaries and custom notes
 
