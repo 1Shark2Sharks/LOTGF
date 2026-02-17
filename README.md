@@ -17,7 +17,7 @@ First release `CH_100_2026_MM_DD` will contain information from chapter 1 to ~10
 
 Second release `CH_219_2026_MM_DD` will contain information from chapter 1 to 219 (End of Volume 1)
 
-Third release `CH_300_2026_MM_DD` will contain information from chapter 1 to ~300\
+Third release `CH_300_2026_MM_DD` will contain information from chapter 1 to ~300
 
 and so on...
 
