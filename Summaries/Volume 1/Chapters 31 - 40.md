@@ -62,7 +62,7 @@ After practicing and mastering this method, Klein experiences fatigue from the m
 
   
 
-On his way home, Dunn Smith congratulates Klein on being a suitable Beyonder candidate and warns him against probing unauthorized spiritual phenomena to avoid [[losing control]]. Upon returning home, Klein rests due to exhaustion from the day's activities.
+On his way home, Dunn Smith congratulates Klein on being a suitable Beyonder candidate and warns him against probing unauthorized spiritual phenomena to avoid [[Losing Control]]. Upon returning home, Klein rests due to exhaustion from the day's activities.
 
   
 

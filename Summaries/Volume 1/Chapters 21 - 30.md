@@ -80,7 +80,7 @@ Leonard acknowledges Klein's unique disposition, hinting at some special traits 
 
   
 
-Klein, having just been granted permission by Captain to visit [[Tingen University]], is about to bid Rozanne farewell when he inquires about the Church's complete [[Sequences|Beyonder Sequence]]. Rozanne, surprised, reveals that becoming a Beyonder involves immense danger and potential self-sacrifice. She shares her father's cautionary tale of [[losing control]] due to extraordinary powers. Despite this, Klein expresses curiosity about the basics of Beyonder abilities.
+Klein, having just been granted permission by Captain to visit [[Tingen University]], is about to bid Rozanne farewell when he inquires about the Church's complete [[Sequences|Beyonder Sequence]]. Rozanne, surprised, reveals that becoming a Beyonder involves immense danger and potential self-sacrifice. She shares her father's cautionary tale of [[Losing Control]] due to extraordinary powers. Despite this, Klein expresses curiosity about the basics of Beyonder abilities.
 
   
 
@@ -88,7 +88,7 @@ Rozanne explains that in their Church, high Sequencers are rare, with only thirt
 
   
 
-Klein learns that a Sequence 9 Beyonder can study and grasp more knowledge to understand his [[transmigration]] and lay foundations for future ones. Rozanne mentions the Mystery Pryer, a potion formula associated with Sequence 9, and reveals an incomplete Sequence 7 title called Spirit Medium, which Ma'am [[Daly Simone|Daly]] possesses. Klein confesses to having met Ma'am Daly, leading Rozanne to express envy over his connection to such an impressive Beyonder.
+Klein learns that a Sequence 9 Beyonder can study and grasp more knowledge to understand his [[Transmigration]] and lay foundations for future ones. Rozanne mentions the Mystery Pryer, a potion formula associated with Sequence 9, and reveals an incomplete Sequence 7 title called Spirit Medium, which Ma'am [[Daly Simone|Daly]] possesses. Klein confesses to having met Ma'am Daly, leading Rozanne to express envy over his connection to such an impressive Beyonder.
 
   
 

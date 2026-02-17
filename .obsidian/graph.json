@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:LOTGF  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 1.35685652670303,
   "lineSizeMultiplier": 1.08087022707091,
   "collapse-forces": false,
-  "centerStrength": 0.503298236711912,
-  "repelStrength": 11.7975390079919,
-  "linkStrength": 0.667829506533046,
-  "linkDistance": 273,
-  "scale": 0.41599803055548357,
+  "centerStrength": 0.507089495349901,
+  "repelStrength": 9.93444122579662,
+  "linkStrength": 0.569522793108706,
+  "linkDistance": 383,
+  "scale": 0.43762547668898066,
   "close": false
 }

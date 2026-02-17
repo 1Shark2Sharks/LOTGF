@@ -3,9 +3,9 @@ views:
     name: Character
     filters:
       and:
-        - file.folder.startsWith("Characters")
+        - file.path.startsWith("LOTGF/Characters")
     order:
-      - file.basename
+      - file.name
       - Status
       - Pathway
       - Sequence

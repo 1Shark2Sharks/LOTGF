@@ -13,8 +13,16 @@ aliases:
 Each of the seven churches control one complete Sequence.
 
 #### All known Pathways
-[[Seer Sequence Pathway]]
 
+[[Apprentice Sequence Pathway]]
+[[Corpse Collector Sequence Pathway]]
+[[Marauder Sequence Pathway]]
+[[Mystery Pryer Sequence Pathway]]
+[[Sailor Sequence Pathway]]
+[[Savant Sequence Pathway]]
+[[Seer Sequence Pathway]]
+[[Sleeples Sequence Pathway]]
+[[Spectator Sequence Pathway]]
 
 #### All known Sequences
 
@@ -32,6 +40,6 @@ Each of the seven churches control one complete Sequence.
 **Sequence 8:**
 [[Sequence 8 - Midnight Poet]]
 
-Sequence 7:
+**Sequence 7:**
 [[Sequence 7 - Nightmare]]
 [[Sequence 7 - Spirit Medium]]
