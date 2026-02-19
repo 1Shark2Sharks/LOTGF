@@ -17,25 +17,25 @@ This is a genuine hobby project.
 
 ## Releases
 
-First release will be a pre-release `V1_CH-110` and will contain information from chapter 1 to ~110 with all associated materials including summaries and custom notes.
+First release will be a pre-release `V1-110` and will contain information from chapter 1 to ~110  from Volume 1 with all associated materials including summaries and custom notes.
 
-Second release will be the first full release `V1_CH_219_2026_MM_DD` and will contain all information from Volume 1 (first 219 Chapters). This release will probably get updates.
+Second release will be the first full release `V1-219` and will contain all information from Volume 1 (first 219 Chapters). This release will probably get updates.
 
-Third release will be again a pre-release `V2_CH_350`
+Third release will be again a pre-release `V2-350`
 
-Fourth release will bethe second full relase `V2_CH_482_2026_MM_DD`
+Fourth release will be the second full release `V2-482`
 
 ...and so on...
 
 
-e.g. if you currently reading Volume 1 Chapter 120 of LOTM you should pull the `V1_CH_110` pre-release.
+e.g. if you currently reading Volume 1 Chapter 120 of LOTM you should pull the `V1-110` pre-release.
 
 ---
 
 ## Current Progress
 
-**Pre-Release**   Volume 1 - CH_110  ![](https://geps.dev/progress/50)\
-**Full Release**  Volume 1 - CH-219  ![](https://geps.dev/progress/25)
+**Pre-Release**   V1-110  ![](https://geps.dev/progress/50)\
+**Full Release**  V1-219  ![](https://geps.dev/progress/25)
 
 <img width="2087" height="1301" alt="image" src="https://github.com/user-attachments/assets/7a063eee-bf4b-43bc-92d4-5890c4e7fdf5" />
 
